@@ -1,0 +1,15 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "task10",
+  "main": "task10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node task10.js"
+  },
+  "author": "murugan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.3.3"
+  }
+}
